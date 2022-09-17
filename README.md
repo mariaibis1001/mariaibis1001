@@ -1,2 +1,2 @@
 # Hello World! :smile:
-My name is Maria! I'm currently a third year Computer Science student at Cal State Fullerton (:
+Third year Computer Science student at California State University, Fullerton.
